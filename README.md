@@ -18,19 +18,19 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 Users should be able to:
 
-- Hide/Show the answer to a question when the question is clicked
-- Navigate the questions and hide/show answers using keyboard navigation alone
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
+- Hide/Show the answer to a question when the question is clicked ✅
+- Navigate the questions and hide/show answers using keyboard navigation alone ✅
+- View the optimal layout for the interface depending on their device's screen size ✅
+- See hover and focus states for all interactive elements on the page ✅
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./assets/images/screenshot.gif)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/ioangheraszim/faq-accordion)
+- Live Site URL: [Live Site](https://ioangheraszim.github.io/faq-accordion/)
 
 ## My process
 
@@ -44,5 +44,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [mreone.dev](https://ioangheraszim.github.io/portofolio/)
+- Frontend Mentor - [@ioangheraszim](https://www.frontendmentor.io/profile/ioangheraszim)
